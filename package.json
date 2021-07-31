@@ -24,5 +24,13 @@
     "slugify": "^1.5.2",
     "stripe": "^8.149.0",
     "uniqueid": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "7.2.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "2.22.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2"
   }
 }
